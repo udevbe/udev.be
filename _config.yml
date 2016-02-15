@@ -1,0 +1,15 @@
+# Site settings
+title: uDev.be
+description: >
+  You develop
+baseurl: ""
+url: "https://udev.be"
+avatar: "images/udev_logo.png"
+github_username:  udevbe
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
