@@ -12,9 +12,11 @@ knowledge, experiences and the occasional brain fart.
 
 Since we're great supporters of FOSS, everything we do with this website will be
 done in the open.
-You can check our Github organization [here](https://github.com/udevbe) and the 
-source of our website [here](https://github.com/udevbe/udevbe.github.io).
+You can check our [Github organization][1] and the [source][2] of our website.
 
-Feel free to report any issues with this website on the
-[issue tracker](https://github.com/udevbe/udevbe.github.io). We even accept pull
-requests for (original) content.
+Feel free to report any issues with this website on the [issue tracker][3]. We
+even accept pull requests for (original) content.
+
+[1]: https://github.com/udevbe
+[2]: https://github.com/udevbe/udevbe.github.io
+[3]: https://github.com/udevbe/udevbe.github.io/issues
