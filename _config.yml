@@ -6,6 +6,8 @@ baseurl: ""
 url: "https://udev.be"
 avatar: "images/udev_logo.png"
 github_username:  udevbe
+repository: udevbe/udevbe.github.io
+gems: ['jekyll-github-metadata']
 
 # Build settings
 markdown: kramdown
