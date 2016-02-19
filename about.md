@@ -8,5 +8,5 @@ knowledge, experiences and the occasional brain fart.
 
 Since we're great supporters of FOSS, everything we do with this website will be
 done in the open.
-You can check our Github organization [here](https://github.com/udevbe) and the
-source of our website [here](https://github.com/udevbe/udevbe.github.io).
+You can check our Github organization [here]({{site.github.owner_url}}) and the
+source of our website [here]({{site.github.repository_url}}).

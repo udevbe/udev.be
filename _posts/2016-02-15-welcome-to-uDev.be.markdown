@@ -17,6 +17,6 @@ You can check our [Github organization][1] and the [source][2] of our website.
 Feel free to report any issues with this website on the [issue tracker][3]. We
 even accept pull requests for (original) content.
 
-[1]: https://github.com/udevbe
-[2]: https://github.com/udevbe/udevbe.github.io
-[3]: https://github.com/udevbe/udevbe.github.io/issues
+[1]: {{site.github.owner_url}}
+[2]: {{site.github.repository_url}}
+[3]: {{site.github.issues_url}}
