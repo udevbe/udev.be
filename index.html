@@ -1,24 +1,25 @@
----
-layout: default
----
 
-<div class="home">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>udev.be</title>
+  <style type="text/css">
+    .info {
+      font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+      color: #777777;
+      border-top: #AAAAAA solid 1px;
+      display: block;
+      position: absolute;
+      top: 90%;
+      left: 30px;
+    }
+  </style>
+</head>
+<body>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <div class="entry">
-            {{ post.content }}
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-
+<div class="info">
+  <p>udev.be bvba.  Zwemdoklei 51, 9190 Brasschaat. Belgie. 0484/93 23 26   BTW: BE-0677.825.013  Bank: BE16 7360 3724 9074 (KBC)</p>
 </div>
+</body>
+</html>
